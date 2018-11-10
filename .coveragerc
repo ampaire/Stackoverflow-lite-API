@@ -3,7 +3,8 @@ omit =
     */python?.?/*
     */site-packages/nose/*
     */__pycache__/*
-    */__init__.py*
+    */__init__.py
+    */models.py
     */db.py
     *.pyc
     */venv/*
