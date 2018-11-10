@@ -5,7 +5,7 @@ class User:
         self.email = email
         self.password = password
 
-
+#questions class
 class Questions:
     def __init__(self, details, userId):
         self.details = details
